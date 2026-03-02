@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Philosophy-BUILD%20FIRST%20%7C%20MASTERY%20WILL%20COME%20LATER-blueviolet?style=for-the-badge&logo=rocket" alt="Philosophy Badge" />
-</p>
+> "MOST ENGINEERS THINK YOU HAVE TO LEARN SOMETHING 100% BEFORE YOU BUILD. WHEN IN REALITY, YOU START AND THEN LEARN. **BUILD FIRST, MASTERY WILL COME LATER.**"
 # Hi there, I'm Naman Pratap Singh👋
 
 I’m an aspiring "Backend Developer" with a strong interest in how data is stored, managed and processed behind the scenes. 
